@@ -1,3 +1,5 @@
+package Gridy_Algorithm;
+
 import java.util.Scanner;
 
 public class BOJ_11047_Coin_0 {
@@ -12,14 +14,12 @@ public class BOJ_11047_Coin_0 {
 			coin[i] = scanner.nextInt();
 		}
 
-		for (int i = coin.length - 1; i >= 0; i--) {
+		for (int i = N - 1; i >= 0; i--) {
 			if (K / coin[i] != 0) {
 				count += K / coin[i];
 				K %= coin[i];
-			} else {
-				continue;
 			}
-			if(K == 0) {
+			if (K == 0) {
 				break;
 			}
 		}
