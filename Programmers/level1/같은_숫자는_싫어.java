@@ -1,18 +1,20 @@
 package level1;
 
-public class 같은_숫자는_싫어 {
-	public static int solution(int n) {
-        int answer = 0;
-        for(int i = 1; i < n/2 + 1; i++) {
-            if(n % i == 0) {
-                answer += i;
-            }
-        }
-        answer += n;
-        return answer;
-    }
+import java.util.ArrayList;
 
-	public static void main(String[] args) {
-		System.out.println(solution(12));
+public class 같은_숫자는_싫어 {
+	public static int[] solution(int[] arr) {
+		ArrayList<Integer> temp = new ArrayList<>();
+		temp.add(arr[0]);
+		for (int i = 1; i < arr.length; i++) {
+			if (arr[i] != arr[i - 1]) {
+				temp.add(arr[i]);
+			}
+		}
+		int[] answer = new int[temp.size()];
+		for (int i = 0; i < answer.length; i++) {
+			answer[i] = temp.get(i);
+		}
+		return answer;
 	}
 }
