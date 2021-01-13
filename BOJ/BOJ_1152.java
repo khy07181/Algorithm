@@ -1,5 +1,3 @@
-package baekjoon;
-
 import java.util.Scanner;
 
 public class BOJ_1152 {
@@ -9,10 +7,11 @@ public class BOJ_1152 {
         String[] strArr = str.split(" ");
 
         int result = strArr.length;
-        if(strArr[0].equals("") || strArr[strArr.length -1].equals("")) {
-            result--;
+        for(int i = 0 ; i < strArr.length; i++) {
+            if(strArr[i].equals("")) {
+                result--;
+            }
         }
-
         System.out.println(result);
     }
 }
