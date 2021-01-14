@@ -1,5 +1,3 @@
-package Greedy_Algorithm;
-
 import java.util.Scanner;
 
 public class BOJ_10162_Microwave {

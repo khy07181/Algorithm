@@ -1,5 +1,3 @@
-package Step13;
-
 import java.util.Scanner;
 
 public class DecompositionSum {

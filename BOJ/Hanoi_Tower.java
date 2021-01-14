@@ -1,5 +1,3 @@
-package Step11;
-
 import java.util.Scanner;
 
 public class Hanoi_Tower {

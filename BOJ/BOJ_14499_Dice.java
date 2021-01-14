@@ -1,5 +1,3 @@
-package Simulation;
-
 import java.util.Scanner;
 
 public class BOJ_14499_Dice {

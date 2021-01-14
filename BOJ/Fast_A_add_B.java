@@ -1,5 +1,3 @@
-package Step3;
-
 import java.io.*;
 
 public class Fast_A_add_B {

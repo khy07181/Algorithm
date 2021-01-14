@@ -1,6 +1,5 @@
 package level2;
 
-// Level 2 - 다음 큰 숫자
 class Solution {
 	public int solution(int n) {
 		int answer = 0;

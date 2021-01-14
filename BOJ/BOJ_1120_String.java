@@ -1,5 +1,3 @@
-package Gridy_Algorithm;
-
 import java.util.Scanner;
 
 public class BOJ_1120_String {

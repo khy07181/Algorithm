@@ -1,4 +1,3 @@
-package Step1;
 import java.util.Scanner;
 
 public class A_mul_B {

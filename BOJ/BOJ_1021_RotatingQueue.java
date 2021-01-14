@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 class BOJ_1021_RotatingQueue {
-
 	public static void main(String[] args) throws IOException {
 		Scanner scanner = new Scanner(System.in);
 		int N = scanner.nextInt();

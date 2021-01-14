@@ -1,5 +1,3 @@
-package Step9;
-
 import java.util.Scanner;
 
 public class Break_Even_Point {

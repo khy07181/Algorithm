@@ -1,5 +1,3 @@
-package Step16;
-
 import java.io.*;
 
 public class BOJ_2748_FibonacciNum2 {

@@ -1,4 +1,3 @@
-package Step4;
 import java.util.Scanner;
 
 public class PlusCycle {

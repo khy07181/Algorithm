@@ -1,4 +1,3 @@
-package Step9;
 import java.util.Scanner;
 
 public class Find_Fraction {

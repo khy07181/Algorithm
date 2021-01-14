@@ -1,5 +1,3 @@
-package Step10;
-
 import java.util.Scanner;
 
 public class Bertrand {

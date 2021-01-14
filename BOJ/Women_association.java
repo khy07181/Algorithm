@@ -1,5 +1,3 @@
-package Step9;
-
 import java.util.Scanner;
 
 public class Women_association {

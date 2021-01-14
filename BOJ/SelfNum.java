@@ -1,5 +1,3 @@
-package Step7;
-
 public class SelfNum {
     public static final int MAX = 10001;
     

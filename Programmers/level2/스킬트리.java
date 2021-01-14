@@ -1,8 +1,7 @@
-package programmers;
+package level2;
 
 import java.util.LinkedList;
 
-// 미완성
 public class 스킬트리 {
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;

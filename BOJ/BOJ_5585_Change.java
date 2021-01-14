@@ -1,5 +1,3 @@
-package Step16;
-
 import java.util.Scanner;
 
 public class BOJ_5585_Change {

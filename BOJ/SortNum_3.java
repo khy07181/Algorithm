@@ -1,5 +1,3 @@
-package Step14;
-
 import java.io.*;
 import java.util.Arrays;
 

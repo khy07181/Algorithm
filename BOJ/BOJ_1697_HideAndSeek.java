@@ -1,5 +1,3 @@
-package Step28;
-
 import java.util.*;
 
 public class BOJ_1697_HideAndSeek {

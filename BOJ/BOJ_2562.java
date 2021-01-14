@@ -1,5 +1,3 @@
-package baekjoon;
-
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -11,7 +9,7 @@ public class BOJ_2562 {
 
         for (int i = 0; i < 9; i++) {
             int num = sc.nextInt();
-            if(num > max) {
+            if (num > max) {
                 max = num;
             }
             list.add(num);

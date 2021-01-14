@@ -1,4 +1,3 @@
-package Step3;
 import java.util.Scanner;
 
 public class A_add_B_3 {

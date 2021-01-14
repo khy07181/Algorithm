@@ -1,5 +1,3 @@
-package Step16;
-
 import java.util.Scanner;
 
 public class BOJ_1904_01tile {

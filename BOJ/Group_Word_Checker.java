@@ -1,5 +1,3 @@
-package Step8;
-
 import java.util.Scanner;
 
 public class Group_Word_Checker {

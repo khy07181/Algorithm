@@ -1,5 +1,3 @@
-package Step7;
-
 public class sumOfN {
 
 	long sum(int[] a) {

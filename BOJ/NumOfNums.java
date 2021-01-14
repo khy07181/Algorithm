@@ -1,4 +1,3 @@
-package Step6;
 
 import java.util.Scanner;
 

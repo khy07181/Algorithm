@@ -1,5 +1,3 @@
-package Greedy_Algorithm;
-
 import java.util.HashSet;
 import java.util.Scanner;
 
